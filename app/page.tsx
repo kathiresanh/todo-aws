@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      hello jenkins automatic faiked check again
+      hello jenkins pm2 status check
     </div>
   );
 }
